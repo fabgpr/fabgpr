@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular.js, vue.js.**
 
-- 👨‍💻 Puedes enncontrar todos mis proyectso [proximamente](proximamente)
+- 👨‍💻 Puedes enncontrar todos mis proyectos [proximamente](proximamente)
 
 - 💬 Puedes preguntarme acerca de: **React, Next, Redux/RTK, Express, MongoDB, PostgreSQL**
 
